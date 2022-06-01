@@ -353,4 +353,8 @@ ul {
     left: 20%;
   }
 
+  .navbar {
+    height: 100px;
+  }
+
 }
